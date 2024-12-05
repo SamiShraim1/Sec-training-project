@@ -1,9 +1,20 @@
 # Landing Page Project
 
-## Instructions
+## Overview
+This project is part of a practice exercise to build an interactive landing page. The landing page dynamically updates the navigation menu based on the content of the page, highlights active sections during scrolling or clicking, and enables smooth scrolling to specific sections.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Features
+- **Dynamic Navigation Menu**: The navigation menu is built dynamically based on the number of sections on the page.
+- **Smooth Scrolling**: Clicking on a navigation link scrolls smoothly to the corresponding section.
+- **Active Section Highlighting**: Highlights the currently active section as the user scrolls or clicks.
+- **Responsive Design**: The layout adapts for both desktop and mobile devices, with a collapsible menu on smaller screens.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Technologies Used
+- **HTML**: For structuring the landing page content.
+- **CSS**: For styling the layout and interactive elements.
+- **JavaScript**: To implement dynamic behavior, including navigation building, smooth scrolling, and section highlighting.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Getting Started
+To view and interact with the landing page:
+1. Clone or download the project to your local machine.
+2. Open the `index.html` file in your browser to see the landing page in action.
