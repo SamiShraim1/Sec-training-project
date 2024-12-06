@@ -1,20 +1,28 @@
 # Landing Page Project
 
-## Overview
-This project is part of a practice exercise to build an interactive landing page. The landing page dynamically updates the navigation menu based on the content of the page, highlights active sections during scrolling or clicking, and enables smooth scrolling to specific sections.
+## Project Description
+This project is part of a practice exercise to build an interactive landing page. The landing page dynamically updates the navigation menu based on the content of the page sections and provides enhanced user interactivity.
 
 ## Features
-- **Dynamic Navigation Menu**: The navigation menu is built dynamically based on the number of sections on the page.
-- **Smooth Scrolling**: Clicking on a navigation link scrolls smoothly to the corresponding section.
-- **Active Section Highlighting**: Highlights the currently active section as the user scrolls or clicks.
-- **Responsive Design**: The layout adapts for both desktop and mobile devices, with a collapsible menu on smaller screens.
+- **Dynamic Navigation Menu**: Automatically updates based on the sections present on the page.
+- **Smooth Scrolling**: Enables seamless scrolling when clicking on a navigation link.
+- **Active Section Highlighting**: Visually highlights the active section as the user scrolls or clicks.
 
-## Technologies Used
-- **HTML**: For structuring the landing page content.
-- **CSS**: For styling the layout and interactive elements.
-- **JavaScript**: To implement dynamic behavior, including navigation building, smooth scrolling, and section highlighting.
+## Usage Instructions
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a browser.
+3. Explore the interactive features, including dynamic navigation, smooth scrolling, and active section highlighting.
 
-## Getting Started
-To view and interact with the landing page:
-1. Clone or download the project to your local machine.
-2. Open the `index.html` file in your browser to see the landing page in action.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Dependencies
+This project uses plain JavaScript and does not rely on any external libraries or frameworks.
+
+## Author Information
+Created by **Sami Al-Naser**. Feel free to reach out for any suggestions or collaboration.
+
+## Credits
+Thanks to the resources and mentors that helped shape this project.
